@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">An Enthusiastic Geek!</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk">
-<!-- <iframe src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk">via GIPHY</a></p>
- -->
+<h1 align="center">Hi 👋, I'm Raj<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h3 align="center">An Enthusiastic Geek! First year Student @NIT Raipur</h3>
+<p align="center"> 
+<img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
+</p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/raj-motwani-978143204/**
 
