@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">An Enthusiastic Geek!</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+
 
 - 📫 How to reach me **https://www.linkedin.com/in/raj-motwani-978143204/**
 
