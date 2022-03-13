@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raj<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <h3 align="center">An Enthusiastic Geek! First year Student @NIT Raipur</h3>
 <p align="center"> 
-<img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
+<img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300px"/>
 
 </p>
-<div style="width:100%;height:0;padding-bottom:174%;position:relative;"><iframe src="https://giphy.com/embed/xbLZjyMNQqEpTKjkSm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KeepCoding-geek-developer-dev-xbLZjyMNQqEpTKjkSm">via GIPHY</a></p>
+
 
 - 📫 How to reach me **https://www.linkedin.com/in/raj-motwani-978143204/**
 
