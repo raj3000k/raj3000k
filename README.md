@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Raj<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <h3 align="center">An Enthusiastic Geek! Second year Student @NIT Raipur</h3>
-<p align="left"> 
-<img align="left" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="1000"/>
 
-</p>
+<img align="left" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
+
+
 
 
 - 📫 How to reach me **https://www.linkedin.com/in/raj-motwani-978143204/**
