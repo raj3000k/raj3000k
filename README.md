@@ -2,7 +2,7 @@
 <h3 align="center">An Enthusiastic Geek! UG @NIT Raipur</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="GIF of Me"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="GIF of Me"/>
 </p>
 
 ---
