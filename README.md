@@ -1,52 +1,77 @@
 <div align="center">
 
-<img src="./assets/orbit-header.gif" width="100%" alt="Animated holographic orbital system — Raj Motwani" />
+<img src="./orbit-header.gif" width="100%" alt="Animated holographic orbital system with Raj Motwani's name" />
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj3000k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/raj-motwani-978143204/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://raj-m-portfolio.netlify.app/)
+<a href="https://github.com/raj3000k"><img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=F4FBFA" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/raj-motwani-978143204/"><img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=39D9FF" alt="LinkedIn" /></a>
+<a href="https://raj-m-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-07111F?style=for-the-badge&logo=googlechrome&logoColor=B7F36B" alt="Portfolio" /></a>
 
 </div>
 
-### 01 / About
+<br />
 
-Software engineer who likes turning ideas into useful products. Interested in **backend engineering, AI systems, developer tools, and open source**. NIT Raipur '25.
+<img src="./assets/command-grid.svg" width="100%" alt="Building what's next: products, platforms and intelligent systems" />
 
-### 02 / Experience
+## 01 / Signal
 
-| Role | Organization |
-| :--- | :--- |
-| **Software Engineer** | **Mercedes-Benz** |
-| **Data Engineer Intern** | **ZS Associates** |
-| **Software Engineer** | **UrbanPiper** |
+```text
+SOFTWARE ENGINEER  //  PRODUCT-MINDED BUILDER  //  NIT RAIPUR '25
+```
 
-### 03 / Toolkit
+I turn ambiguous ideas into useful systems: reliable backends, intelligent data products, and tools that make complicated work feel lighter. My current orbit is **backend engineering, AI systems, developer tools, and open source**.
 
-**Languages** · C++ · Python · JavaScript · SQL · Dart · Swift  
-**Development** · React · Node.js · FastAPI · Flutter · MongoDB  
-**Tools** · Docker · Git · Linux · TensorFlow · Figma
+## 02 / Career trajectory
 
-### 04 / Selected work
+| Signal    | Where it led                                  |
+| :-------- | :-------------------------------------------- |
+| `NOW`     | **Software Engineer** at **Mercedes-Benz**    |
+| `BEFORE`  | **Data Engineer Intern** at **ZS Associates** |
+| `EARLIER` | **Software Engineer** at **UrbanPiper**       |
 
-- **Solar intelligence** — exploring rooftop solar potential through satellite imagery.
-- **Customer behavior analysis** — extracting patterns and insights from data.
-- **iOS music player** — a native Swift app.
-- **HUB testing platform** — contributed to a mock aggregator for UrbanPiper's product testing workflows.
+## 03 / Stack map
 
-### 05 / GitHub
+<table>
+	<tr>
+		<td><strong>LANGUAGES</strong><br />C++ · Python · JavaScript · SQL<br />Dart · Swift</td>
+		<td><strong>BUILD</strong><br />React · Node.js · FastAPI<br />Flutter · MongoDB</td>
+		<td><strong>SHIP</strong><br />Docker · Git · Linux<br />TensorFlow · Figma</td>
+	</tr>
+</table>
+
+## 04 / Things I have shipped
+
+<table>
+	<tr>
+		<td width="50%"><strong>01 / SOLAR INTELLIGENCE</strong><br />Exploring rooftop solar potential through satellite imagery.</td>
+		<td width="50%"><strong>02 / CUSTOMER SIGNALS</strong><br />Extracting patterns from behavior data to support better decisions.</td>
+	</tr>
+	<tr>
+		<td><strong>03 / NATIVE MUSIC</strong><br />A focused iOS music player built in Swift.</td>
+		<td><strong>04 / HUB TESTING</strong><br />A mock aggregator supporting UrbanPiper's product testing workflows.</td>
+	</tr>
+</table>
+
+## 05 / GitHub telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raj3000k&show_icons=true&hide_border=true&theme=transparent" alt="Dynamic GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raj3000k&show_icons=true&hide_border=true&bg_color=07111F&title_color=F4FBFA&text_color=8EA9B0&icon_color=B7F36B&ring_color=39D9FF" alt="Raj Motwani's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj3000k&layout=compact&hide_border=true&bg_color=07111F&title_color=F4FBFA&text_color=8EA9B0&icon_color=39D9FF" alt="Raj Motwani's most used languages" />
 
 </div>
 
----
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj3000k&bg_color=07111F&color=8EA9B0&line=39D9FF&point=B7F36B&area=true&hide_border=true" width="100%" alt="Raj Motwani's GitHub activity graph" />
+
+</div>
+
+<br />
 
 <div align="center">
 
-❤️ u 3000
+`keep building // keep learning // keep shipping`
 
 </div>
